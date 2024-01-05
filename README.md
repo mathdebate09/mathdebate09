@@ -34,4 +34,4 @@ Environment
 
 ## Get In Touch
 
-[![Github](https://img.shields.io/badge/-Jay_Singh-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/mathdebate09) [![Linkedin](https://img.shields.io/badge/-Jay_Singh-000?style=for-the-badge&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/simmonli/) [![Email](https://img.shields.io/badge/-Jay_Singh-000?style=for-the-badge&logo=gmail&logoColor=azure&color=EA4335)](mailto:work.jayssingh@gmail.com)
+[![Github](https://img.shields.io/badge/-Jay_Singh-000?style=for-the-badge&logo=github&logoColor=azure&color=181717)](https://github.com/mathdebate09) [![Linkedin](https://img.shields.io/badge/-Jay_Singh-000?style=for-the-badge&logo=linkedin&logoColor=azure&color=0A66C2)](https://www.linkedin.com/in/jay-s-singh/) [![Email](https://img.shields.io/badge/-Jay_Singh-000?style=for-the-badge&logo=gmail&logoColor=azure&color=EA4335)](mailto:work.jayssingh@gmail.com)
