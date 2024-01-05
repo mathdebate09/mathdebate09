@@ -3,9 +3,9 @@
 
 I'm a Student and a Developer based in Mumbai, India. I'm pursuing my Bachelors in Information Technology currently in my freshman year [Looking for a resume? Find it here!](https://drive.google.com/file/d/1Z3Z3Q4Z3Z3Q4Z3Q4Z3Q4Z3Q4Z3Q4Z3Q4/view?usp=sharing)
 
-Apart from actively learning Web Development, my interests include UI/UX Design and Machine Learning. I am also a huge fan of Linux and Open Source Software.
+Apart from actively learning Web Development, I'm interested in UI/UX Design and Machine Learning. I am also a huge fan of Linux and Open Source Software.
 
-Outside of development, I am very interested in 🏃 sprinting and [🎶 music](https://open.spotify.com/user/ny1ubpoozmdc1td6eszz7gi8b).
+Outside of development, I practice 🏃 sprinting and [🎶 music](https://open.spotify.com/user/ny1ubpoozmdc1td6eszz7gi8b).
 
 <!--
 Badge format:
