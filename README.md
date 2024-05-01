@@ -16,7 +16,7 @@ For spaces, badge text uses underscores, while the logo slug uses hyphens.
 ## Technologies
 
 Languages  
-[![JS](https://img.shields.io/badge/-javascript-000?style=for-the-badge&logo=javascript)](#) [![PY](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python)](#) [![JAVA](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#)
+[![REACT](https://img.shields.io/badge/-react-000?style=for-the-badge&logo=react)](#) [![JS](https://img.shields.io/badge/-javascript-000?style=for-the-badge&logo=javascript)](#) [![PY](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python)](#) [![JAVA](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#) 
 
 <!-- Frameworks  
 [![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)](#) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)](#) [![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=for-the-badge&logo=tailwind-css)](#)   -->
